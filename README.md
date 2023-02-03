@@ -6,7 +6,7 @@ Then clone the repo using
 ```
 git clone https://github.com/rishi5544/treetor-assignment.git
 ```
-Now go to project folder using command line
+Now go to project folder using command line,
 If you are in project location then you can install packages using
 ```
 pip install -r requirements.txt
